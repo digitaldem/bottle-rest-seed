@@ -1,0 +1,8 @@
+/**/*.pyc
+/**/*.pyo
+/**/.DS_Store
+/.virtualenv/
+/.coverage
+/coverage.xml
+/nose2-junit.xml
+/uwsgi.log

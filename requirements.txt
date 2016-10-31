@@ -1,0 +1,9 @@
+argparse==1.4.0
+bottle==0.12.10
+bugsnag==2.5.2
+inflect==0.2.5
+newrelic==2.72.1.53
+openpyxl==2.2.6
+simplejson==3.9.0
+ujson==1.35
+uWSGI==2.0
